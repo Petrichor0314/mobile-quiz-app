@@ -5,34 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24b5e96a-c2c3-4f68-9ef4-819b276fa6cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/quizzes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ErrorModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GradientButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/QuizCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RadioButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/AppNavigator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/QuizDetailScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/QuizListScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/QuizQuestionScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/QuizResultScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/apiClient.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/global.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/index.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/styles.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/explore.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/+not-found.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Collapsible.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ExternalLink.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/HapticTab.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/HelloWave.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ParallaxScrollView.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ThemedText.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ThemedView.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/IconSymbol.ios.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/IconSymbol.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/TabBarBackground.ios.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/TabBarBackground.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/Colors.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useColorScheme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useColorScheme.web.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useThemeColor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/reset-project.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +60,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Petrichor\WebstormProjects\mobile-quiz-app" />
+      <recent name="C:\Users\Petrichor\WebstormProjects\mobile-quiz-app\src\components" />
+      <recent name="C:\Users\Petrichor\WebstormProjects\mobile-quiz-app\data" />
+      <recent name="C:\Users\Petrichor\WebstormProjects\mobile-quiz-app\src\navigation" />
+      <recent name="C:\Users\Petrichor\WebstormProjects\mobile-quiz-app\src\screens" />
+      <recent name="C:\Users\Petrichor\WebstormProjects\mobile-quiz-app\src\services" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -87,7 +81,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746356380302</updated>
-      <workItem from="1746356381388" duration="10232000" />
+      <workItem from="1746356381388" duration="17533000" />
+      <workItem from="1746451556184" duration="9507000" />
     </task>
     <servers />
   </component>

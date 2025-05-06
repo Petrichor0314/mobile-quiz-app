@@ -1,0 +1,110 @@
+{
+  "general-knowledge": {
+    "title": "General Knowledge",
+    "description": "Test your knowledge on random facts!",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is the capital of France?",
+        "options": ["Paris", "Berlin", "Madrid", "Rome"],
+        "correctAnswer": "Paris"
+      },
+      {
+        "id": "q2",
+        "text": "Who wrote 'Hamlet'?",
+        "options": ["Shakespeare", "Tolstoy", "Twain", "Dickens"],
+        "correctAnswer": "Shakespeare"
+      },
+      {
+        "id": "q3",
+        "text": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+        "correctAnswer": "Mars"
+      },
+      {
+        "id": "q4",
+        "text": "What is the largest ocean on Earth?",
+        "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+        "correctAnswer": "Pacific Ocean"
+      },
+      {
+        "id": "q5",
+        "text": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+        "correctAnswer": "Leonardo da Vinci"
+      }
+    ]
+  },
+  "science": {
+    "title": "Science Quiz",
+    "description": "Challenge your scientific knowledge!",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Fe", "Cu"],
+        "correctAnswer": "Au"
+      },
+      {
+        "id": "q2",
+        "text": "Which of these is NOT a type of elementary particle?",
+        "options": ["Photon", "Neutron", "Graviton", "Electronium"],
+        "correctAnswer": "Electronium"
+      },
+      {
+        "id": "q3",
+        "text": "What is the hardest natural substance on Earth?",
+        "options": ["Diamond", "Titanium", "Platinum", "Quartz"],
+        "correctAnswer": "Diamond"
+      },
+      {
+        "id": "q4",
+        "text": "What is the approximate speed of light in a vacuum?",
+        "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+        "correctAnswer": "300,000 km/s"
+      },
+      {
+        "id": "q5",
+        "text": "Which of these is NOT one of the four fundamental forces?",
+        "options": ["Gravitational", "Electromagnetic", "Strong Nuclear", "Centrifugal"],
+        "correctAnswer": "Centrifugal"
+      }
+    ]
+  },
+  "history": {
+    "title": "History Quiz",
+    "description": "Test your knowledge of historical events!",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "In which year did World War II end?",
+        "options": ["1945", "1939", "1950", "1942"],
+        "correctAnswer": "1945"
+      },
+      {
+        "id": "q2",
+        "text": "Who was the first President of the United States?",
+        "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+        "correctAnswer": "George Washington"
+      },
+      {
+        "id": "q3",
+        "text": "Which ancient civilization built the pyramids at Giza?",
+        "options": ["Egyptian", "Greek", "Roman", "Mayan"],
+        "correctAnswer": "Egyptian"
+      },
+      {
+        "id": "q4",
+        "text": "The Renaissance period began in which country?",
+        "options": ["Italy", "France", "England", "Spain"],
+        "correctAnswer": "Italy"
+      },
+      {
+        "id": "q5",
+        "text": "Who was the first woman to win a Nobel Prize?",
+        "options": ["Marie Curie", "Rosalind Franklin", "Ada Lovelace", "Dorothy Hodgkin"],
+        "correctAnswer": "Marie Curie"
+      }
+    ]
+  }
+}
